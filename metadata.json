@@ -1,0 +1,8 @@
+{
+  "name": "Azure Saudi - Lease to Close Simulation v2",
+  "description": "Interactive sales \u0026 leasing excellence simulation game for Azure Saudi luxury residential communities by Mohammad Al Habib Real Estate Company.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
